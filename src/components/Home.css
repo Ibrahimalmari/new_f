@@ -1,0 +1,338 @@
+.number{
+    background-color: #cb4a68;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    padding: 25px 0px;
+    overflow: hidden;
+}
+
+.number .row{
+    margin: 30px;
+}
+
+.number h2{
+    margin: 10px;
+    font-weight: bold;
+    font-size: 50px; 
+    color: #fff;  
+}
+.number h6{
+    text-transform: uppercase;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+}
+
+.mid{
+  background-color: transparent;
+  margin: 70px;
+  max-width: 100%;  
+  height: auto;
+  overflow: hidden;
+  text-align: center;
+}
+
+.img{
+    background: url(/public/ella-olsson-KPDbRyFOTnE-unsplash.jpg)  no-repeat ;
+    max-width: 100%;
+    width: 100%;
+     height:400px;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.mid h2{
+    margin:10px;
+    color: #59202d;
+    font-weight: bold;
+    line-height: 50px;
+    width:100%;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.mid p{
+    margin-top: 30px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #333;
+    line-height: 25px;
+ 
+}
+
+.mid button{
+    background-color: #a82d48;
+    border: 1px solid #a82d48;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 20px;
+    color: #fff;
+    text-transform: uppercase;
+    
+}
+
+.mid button:hover{
+    background-color: #fff;
+    color: #a82d48;
+     transition: 0.2 ease-in-out;
+}
+
+.main_1{
+    background-color: transparent;
+    margin: 70px;
+    max-width: 100%;  
+    height: auto;
+    overflow: hidden;
+    text-align: left;
+  }
+
+.img2{
+    background: url(/public/pexels-lumn-568370.jpg)  no-repeat ;
+    max-width: 100%;
+    width: 100%;
+     height:400px;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.main_1 button{
+    background-color: #a82d48;
+    border: 1px solid #a82d48;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    color: #fff;
+    text-transform: uppercase;
+    
+}
+
+.main_1 button:hover{
+    background-color: #fff;
+    color: #a82d48;
+     transition: 0.2 ease-in-out;
+}
+
+.main_2{
+    background: url(/public/pexels-anna-tukhfatullina-food-photographerstylist-2611824.jpg) center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width:100%;
+    text-align: center;
+    height: auto;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.main_2 h2{
+    color: #d24444;
+    font-size: 30px;
+    line-height: 50px;
+    text-align: center;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     font-weight:bold;
+     width: 100%;
+     margin: 50px 0px  50px 0px;
+}
+
+.main_2 p{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #333;
+    line-height: 25px;
+ 
+}
+
+.main_3{
+    width: 100%;
+    max-width:100%;
+    text-align: center;
+    height: auto;
+    overflow: hidden;
+    margin-top: 50px;
+}
+
+.main_3 img{
+    width: 100%;
+}
+
+.main_3 button{
+    background-color: #a82d48;
+    border: 1px solid #a82d48;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    color: #fff;
+    text-transform: uppercase;
+    
+}
+
+.main_3 button:hover{
+    background-color: #fff;
+    color: #a82d48;
+     transition: 0.2 ease-in-out;
+}
+
+.main_4{
+    background-color: #fff;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    border: 1px solid #fff;
+    margin: 30px 0px 30px 0px;
+}
+
+.main_4 h2{
+    margin:40px 0px 60px 0px;
+    font-family: 'Times New Roman', Times, serif;
+     font-weight:bold
+}
+
+.main_4 h4{
+    margin: 20px 0px 20px 0px;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main_4 p{
+    text-align: left;
+}
+
+.sab{
+    background: url(/public/mae-mu-en4qp-aK1h4-unsplash.jpg) center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width:100%;
+    text-align: left;
+    height: auto;
+     margin: 30px 0px 50px 0px;
+    overflow: hidden;
+}
+
+
+
+.sab button{
+    background-color: #a82d48;
+    border: 1px solid #a82d48;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin: 30px 0px  30px 0px;
+    color: #fff;
+    text-transform: uppercase;
+    
+}
+
+.sab h2{
+    color: #fff;
+    font-size: 25px;
+    line-height: 40px;
+    text-align: left;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     font-weight:bold;
+     width: 100%;
+     margin: 30px 0px  50px 0px;
+}
+
+.sab button:hover{
+    background-color: #fff;
+    color: #a82d48;
+     transition: 0.2 ease-in-out;
+}
+
+
+.scribe{
+    width: 100%;
+    max-width:100%;
+    text-align: center;
+    height: auto;
+     margin: 30px 0px 50px 0px;
+    overflow: hidden;
+
+}
+
+.scribe h2{
+    font-size: 35px;
+    line-height: 50px;
+    text-align: center;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     font-weight:bold;
+     width: 100%;
+     margin: 30px 0px  30px 0px;
+}
+
+.scribe button{
+    background-color: #a82d48;
+    border: 1px solid #a82d48;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin: 10px 0px  10px 0px;
+    color: #fff;
+    text-transform: uppercase;
+    
+}
+
+.scribe button:hover{
+    background-color: #fff;
+    color: #a82d48;
+     transition: 0.2 ease-in-out;
+}
+.scribe Form{
+    margin: 10px 0px  10px 0px;
+}
+
+.footer{
+        width: 100%;
+        background-color:#a82d48;
+        max-width:100%;
+        text-align: center;
+        height: auto;
+         margin: 30px 0px 0px 0px;
+        overflow: hidden;
+    
+}
+
+ .f{
+    margin-top: 30px;
+   margin-bottom: 30px;
+} 
+.f a{
+color: #fff;
+text-decoration: none;
+margin: 10px ; 
+font-size:20px;
+text-transform: uppercase;
+}
+.f a:hover{
+    color:rgb(203, 203, 203)
+}
+
+.m{
+    color: rgb(239, 242, 247);
+    letter-spacing: 20px;
+    
+}
+
+
+
+.done{
+   color: white;
+   margin: 40px 0px 40px 0px;
+ 
+}

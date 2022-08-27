@@ -1,0 +1,51 @@
+ header{
+    background: url(/public/amirali-mirhashemian-Z7pZjhAAj8Y-unsplash.jpg) center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width:100%;
+    text-align: left;
+    height: auto;
+    overflow: hidden;
+}
+
+header h2{
+    color: #d24444;
+    font-size: 45px;
+    line-height: 60px;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     font-weight:bold;
+     width: 80%;
+     margin: 50px 0px  50px 0px;
+}
+
+header p {
+    color: #333;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 15px 0px;
+}
+header button{
+    width: 140px;
+    height: 40px;
+    background-color: #7c0f28;
+    border: 1px solid #7c0f28 ;
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+    margin: 20px 10px;
+}
+
+header button:last-of-type{
+    background-color: #fff;
+    color: #000;
+}
+header button:hover{
+background-color: #7c0f28;
+transition: 0.2 ease-in-out;
+color: #fff;
+}
+header button:first-of-type:hover{
+    background-color: #fff;
+    transition: 0.2 ease-in-out;
+    color: #000;
+    }
+    

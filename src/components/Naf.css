@@ -1,0 +1,31 @@
+nav{
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    position: sticky !important;
+    top: 0px;
+    
+  
+}
+
+nav a{
+   color: rgb(234, 109, 136) !important;
+   font-size: 15px;
+   font-weight: bold;
+   text-transform: uppercase;
+}
+
+
+nav .son{
+    background-color:#ab3550;
+    border: 1px solid #ab3550;
+    box-sizing: border-box;
+    color:#fff !important;
+}
+
+nav .son:hover{
+    color:#ab3550 !important;
+    background-color: transparent;
+        transition:  0.2s ease-in-out;
+} 
