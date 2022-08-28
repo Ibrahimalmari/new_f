@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Ibrahimalmari/new_f.git/static/css/main.782dac76.css",
-    "main.js": "/Ibrahimalmari/new_f.git/static/js/main.fa2958fb.js",
-    "static/js/787.32d91862.chunk.js": "/Ibrahimalmari/new_f.git/static/js/787.32d91862.chunk.js",
-    "static/media/ella-olsson-KPDbRyFOTnE-unsplash.jpg": "/Ibrahimalmari/new_f.git/static/media/ella-olsson-KPDbRyFOTnE-unsplash.52b47f1bfc62ef9f839e.jpg",
-    "static/media/pexels-engin-akyurt-1437267.jpg": "/Ibrahimalmari/new_f.git/static/media/pexels-engin-akyurt-1437267.278f6618e3bd2ca9fd94.jpg",
-    "static/media/pexels-lumn-568370.jpg": "/Ibrahimalmari/new_f.git/static/media/pexels-lumn-568370.d84b5877c7f41e9ee25a.jpg",
-    "static/media/amirali-mirhashemian-Z7pZjhAAj8Y-unsplash.jpg": "/Ibrahimalmari/new_f.git/static/media/amirali-mirhashemian-Z7pZjhAAj8Y-unsplash.83a715491cc1a9efa984.jpg",
-    "static/media/mae-mu-en4qp-aK1h4-unsplash.jpg": "/Ibrahimalmari/new_f.git/static/media/mae-mu-en4qp-aK1h4-unsplash.f78c8316c8bf56c9d5fb.jpg",
-    "static/media/pexels-chan-walrus-1059943.jpg": "/Ibrahimalmari/new_f.git/static/media/pexels-chan-walrus-1059943.8d314fa60f59df62cfdf.jpg",
-    "static/media/pexels-omar-mahmood-106343.jpg": "/Ibrahimalmari/new_f.git/static/media/pexels-omar-mahmood-106343.386de1e22f8b081f7e5b.jpg",
-    "static/media/pexels-anna-tukhfatullina-food-photographerstylist-2611824.jpg": "/Ibrahimalmari/new_f.git/static/media/pexels-anna-tukhfatullina-food-photographerstylist-2611824.f7f07e6d5c29ec6ee92b.jpg",
-    "index.html": "/Ibrahimalmari/new_f.git/index.html",
-    "main.782dac76.css.map": "/Ibrahimalmari/new_f.git/static/css/main.782dac76.css.map",
-    "main.fa2958fb.js.map": "/Ibrahimalmari/new_f.git/static/js/main.fa2958fb.js.map",
-    "787.32d91862.chunk.js.map": "/Ibrahimalmari/new_f.git/static/js/787.32d91862.chunk.js.map"
+    "main.css": "/new_f/static/css/main.90b621fa.css",
+    "main.js": "/new_f/static/js/main.23d66b9b.js",
+    "static/js/787.32d91862.chunk.js": "/new_f/static/js/787.32d91862.chunk.js",
+    "static/media/ella-olsson-KPDbRyFOTnE-unsplash.jpg": "/new_f/static/media/ella-olsson-KPDbRyFOTnE-unsplash.52b47f1bfc62ef9f839e.jpg",
+    "static/media/pexels-engin-akyurt-1437267.jpg": "/new_f/static/media/pexels-engin-akyurt-1437267.278f6618e3bd2ca9fd94.jpg",
+    "static/media/pexels-lumn-568370.jpg": "/new_f/static/media/pexels-lumn-568370.d84b5877c7f41e9ee25a.jpg",
+    "static/media/amirali-mirhashemian-Z7pZjhAAj8Y-unsplash.jpg": "/new_f/static/media/amirali-mirhashemian-Z7pZjhAAj8Y-unsplash.83a715491cc1a9efa984.jpg",
+    "static/media/mae-mu-en4qp-aK1h4-unsplash.jpg": "/new_f/static/media/mae-mu-en4qp-aK1h4-unsplash.f78c8316c8bf56c9d5fb.jpg",
+    "static/media/pexels-chan-walrus-1059943.jpg": "/new_f/static/media/pexels-chan-walrus-1059943.8d314fa60f59df62cfdf.jpg",
+    "static/media/pexels-omar-mahmood-106343.jpg": "/new_f/static/media/pexels-omar-mahmood-106343.386de1e22f8b081f7e5b.jpg",
+    "static/media/pexels-anna-tukhfatullina-food-photographerstylist-2611824.jpg": "/new_f/static/media/pexels-anna-tukhfatullina-food-photographerstylist-2611824.f7f07e6d5c29ec6ee92b.jpg",
+    "index.html": "/new_f/index.html",
+    "main.90b621fa.css.map": "/new_f/static/css/main.90b621fa.css.map",
+    "main.23d66b9b.js.map": "/new_f/static/js/main.23d66b9b.js.map",
+    "787.32d91862.chunk.js.map": "/new_f/static/js/787.32d91862.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.782dac76.css",
-    "static/js/main.fa2958fb.js"
+    "static/css/main.90b621fa.css",
+    "static/js/main.23d66b9b.js"
   ]
 }
